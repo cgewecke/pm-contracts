@@ -39,7 +39,7 @@
     "solhint": "^1.1.10",
     "solidity-coverage": "^0.4.2",
     "solmd": "github:cag/solmd",
-    "truffle": "^3.4.11"
+    "truffle": "^4.1.10"
   },
   "repository": {
     "type": "git",
